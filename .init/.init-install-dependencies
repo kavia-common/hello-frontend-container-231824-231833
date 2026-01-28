@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/hello-frontend-container-231824-231833/hello_frontend"
+}
